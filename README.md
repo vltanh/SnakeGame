@@ -7,9 +7,9 @@
 **MSSV**: 1612838
 
 
-
-
 **Year 1 - Semester 2**
+
+**Module**: Advanced Programming
 
 **Project**: Snake Game
 
